@@ -24,8 +24,8 @@ pip install aiohttp rich
 ```
 ## SETUP
 ```sh
-rm -rf Tools
-git clone https://github.com/Heruteah/Tools.git
-cd Tools
+rm -rf Loklok
+git clone https://github.com/Heruteah/Loklok.git
+cd Loklok
 python main.py
 ```
